@@ -1,0 +1,5 @@
+{
+    "url": "https://scholar.google.com/scholar?q=",
+    "recommendations": ["prompt learning", "cold start", "multi task"],
+    "maxPage": 50
+}
